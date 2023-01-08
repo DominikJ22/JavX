@@ -1,30 +1,24 @@
 # JavX
+Have you heard of ChatGPT? If, not it is an AI app that people can use for many tasks, showing the power of technology. I have my made my own version with JavaScript called JavX. Ask it anything you want and the AI will ctaer to your needs.
 
-
-**Link to project:** 
+**Link to project:** https://jav-dsmjpln1u-dominikj22.vercel.app/
 
 ![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, React, OpenAI
-
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+**Tech used:** HTML, CSS, JavaScript, API, Vite, and OpenAI
+I designed this app to have an elegant user face that resembles the ChatGPT app. It communicates with the GPT 3 model API and answers question and comments. I made a seperate client side and server side. I used simple js for both to make it a simple as possible.
 
 ## Optimizations
-*(optional)*
-
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+Simple server using Node.
+Responsive layouts with CSS.
+Simple handle events with JavaScript.
 
 ## Lessons Learned:
-
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+From this project I really focused on learning how to use Vite. Vite is a JS tool that helps simplify Frontend applications. The API used in this application was complicated to understand at first but after some time and research I understood how to impliment it. Finally, I learned and focused on how to deploy new apps with new technology.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**other:** 
