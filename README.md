@@ -1,9 +1,13 @@
 # JavX
 Have you heard of ChatGPT? If, not it is an AI app that people can use for many tasks, showing the power of technology. I have my made my own version with JavaScript called JavX. Ask it anything you want and the AI will ctaer to your needs.
 
-**Link to project:** https://jav-dsmjpln1u-dominikj22.vercel.app/
+**Link to live project:** https://jav-dsmjpln1u-dominikj22.vercel.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+**Link to repository:** https://github.com/DominikJ22/JavX
+
+<p align="center">
+<img width="400" src="javx.gif" alt="javx.gif"/> 
+</p>
 
 ## How It's Made:
 
