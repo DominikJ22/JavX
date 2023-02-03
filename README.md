@@ -3,10 +3,8 @@ Have you heard of ChatGPT? If, not it is an AI app that people can use for many 
 
 **Link to live project:** https://jav-dsmjpln1u-dominikj22.vercel.app/
 
-**Link to repository:** https://github.com/DominikJ22/JavX
-
 <p align="center">
-<img width="400" src="javx.gif" alt="javx.gif"/> 
+<img  src="javx.gif" alt="javx.gif"/> 
 </p>
 
 ## How It's Made:
