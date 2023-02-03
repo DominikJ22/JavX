@@ -23,4 +23,8 @@ From this project I really focused on learning how to use Vite. Vite is a JS too
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**other:** 
+**Don't Forget:** https://github.com/DominikJ22/notes 
+
+**Invincible:** https://github.com/DominikJ22/invincble-app
+
+**Project Cosmos:** https://github.com/DominikJ22/Nasa-Explorer
